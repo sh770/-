@@ -7,4 +7,6 @@
 ## התקנת התוספים
 winget install youtube-dl.youtube-dl
 
+winget install -e --id yt-dlg.yt-dlg
+
 winget install ffmpeg
